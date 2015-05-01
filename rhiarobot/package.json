@@ -1,18 +1,18 @@
 {
-  "name": "ldpbot",
+  "name": "rhiarobot",
   "version": "0.0.1",
   "private": true,
-  "author": "Linked Data Platform",
+  "author": "rhiaro",
   "keywords": [
     "github",
     "hubot",
     "campfire",
     "bot"
   ],
-  "description": "A simple helpful robot for LDP",
+  "description": "A simple helpful robot for amy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bbc-fm-nk-core-eng/ldpbot"
+    "url": "https://github.com/rhiaro/rhiarobot"
   },
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
